@@ -5,7 +5,6 @@ module.exports = {
     umd: {
       global: 'FormForComponentHelpers',
       externals: {
-        react: 'React'
       }
     }
   }

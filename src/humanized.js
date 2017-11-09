@@ -1,6 +1,5 @@
 // @flow
 
-import * as React from "react";
 import { humanize as humanizeString } from "./stringHelpers";
 
 export default function humanized(Component: any): string {

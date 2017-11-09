@@ -1,7 +1,5 @@
 // @flow
 
-import * as React from "react";
-
 export default function uniqueId(Component: any): string {
   const id = Component.props && Component.props.id;
   if (id) return id;

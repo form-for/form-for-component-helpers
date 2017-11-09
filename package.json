@@ -46,9 +46,6 @@
     "form-for-components",
     "helpers"
   ],
-  "peerDependencies": {
-    "react": "^15"
-  },
   "devDependencies": {
     "flow-bin": "^0.57.3",
     "flow-copy-source": "^1.2.1",
