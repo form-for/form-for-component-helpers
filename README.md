@@ -75,6 +75,10 @@ export default class Humanized extends React.Component<Props> {
 Returns a helpId and helpText if a given help string is given. The helpId is very important for improving acessibility
 with `aria-describedby`.
 
+Signatures:
+- `help(Component)`
+- `help(Component, helpText)`
+
 ```javascript
 import React from "react";
 import help from "";
